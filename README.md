@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate Data Science and Analytics student at the University of Texas at Austin, where I also work as a Teaching Assistant for Database Management Systems at the iSchool. My experience as a full-stack developer at Tata Consultancy Services (TCS) made me well-versed in Angular and Spring MVC, and gave me the opportunity to collaborate with diverse teams to deliver products. 
 I love transforming complex data into meaningful insights through innovative, data-driven solutions.
 
-[View on Giphy](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)
+![View on Giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ0N3VsYmVwMjgyMnFpejE0YWRmN3AyYmE0M2xibWU5cHhrMXE1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 ## 🎓 Education
 
